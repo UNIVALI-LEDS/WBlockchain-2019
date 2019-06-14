@@ -1,5 +1,7 @@
 # Ethereum Scalability Test
 
+> **Notas:** Não esqueça de referênciar/citar o artigo, referente a este trabalho, ao utilizar este código.
+
 Este projeto, simula varios testes, de diferentes tipos de contratos inteligentes, na rede Ethereum. Seus testes resultaram na produção do artigo ciêntifico citado a baixo. Este trabalho também pode ser utilizado, como example de introdução, na crição de um contrato inteligente na rede Ethereum.
 
 Neste projeto existem 8 tipos de contratos inteligentes, que buscam testar o desempenho e o custo de gás na rede Ethereum. Eles estão divididos em 3 categorias:  Linear Operations, Data Manipulation, Sorting Algorithms.
